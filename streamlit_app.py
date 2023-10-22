@@ -26,7 +26,6 @@ st.markdown('<link rel="stylesheet" href="https://maxcdn.bootstrapcdn.com/bootst
 
 st.markdown("""
 <nav class="navbar fixed-top navbar-expand-lg navbar-dark" style="background-color: #16A2CB;">
-  <a class="navbar-brand" href="https://youtube.com/dataprofessor" target="_blank">Chanin Nantasenamat</a>
   <button class="navbar-toggler" type="button" data-toggle="collapse" data-target="#navbarNav" aria-controls="navbarNav" aria-expanded="false" aria-label="Toggle navigation">
     <span class="navbar-toggler-icon"></span>
   </button>
@@ -42,10 +41,10 @@ st.markdown("""
         <a class="nav-link" href="#work-experience">Work Experience</a>
       </li>
       <li class="nav-item">
-        <a class="nav-link" href="#bioinformatics-tools">Bioinformatics Tools</a>
+        <a class="nav-link" href="#bioinformatics-tools">Skill</a>
       </li>
       <li class="nav-item">
-        <a class="nav-link" href="#social-media">Social Media</a>
+        <a class="nav-link" href="#social-media">Projects</a>
       </li>
     </ul>
   </div>
@@ -176,10 +175,54 @@ txt3('Familiar','Java, Django, Spark, ERP')
 
 #####################
 st.markdown('''
-## Social Media
+## Analytics Project and Machine Learning projects
 ''')
-txt2('A Comparative Analysis of Machine Learning Models for Diabetes Prediction', 'https://github.com/Golnaz-spa/ML_predict_webapp')
 
+txt('**Project: Stock Volatility Forecasting with Transformer Network',
+'Dec 2022 - Aug 2023')
+st.markdown('''
+- Project Description: Enhanced Transformer Network for improved predictions.
+- Key Result: Achieved a remarkable 42% accuracy boost in complex data forecasting.
+- Demonstrated Skills:Proficient in data cleaning, visualization, and various predictive models, including Transformer Networks, LSTM, and DDEWMA.
+''')
+
+txt('**Project: Deep Learning-Based Credit Score Prediction: Hybrid LSTM-GRU Model ',
+'Jan 2023 - March 2023')
+st.markdown('''
+- Project Description: Supported lenders in credit risk assessment.
+- Key Result:LSTM-GRU hybrid model outperformed traditional models, improving accuracy and predictive capabilities.
+- Demonstrated Skills: Accomplished in data cleaning, feature engineering, data visualization, and various machine learning models, including LSTM-GRU. Enhanced model transparency using SHAP values and feature importance.
+''')
+
+txt('**•	Project: A Comparative Analysis of Machine Learning Models for Diabetes Prediction',
+'Oct 2022 - Jan 2023')
+st.markdown('''
+- Project Description: Created a predictive model for diabetes management, leading to improved patient outcomes and resource efficiency.
+- Key Result: Successfully deployed a user-friendly web application 'https://mlpredictwebapp-s9pidwfz5c7rl9rzgbybdq.streamlit.app/' for easy model access and utilized AWS for scalability and reliability.
+- Demonstrated Skills: Proficient in data cleaning, visualization, storytelling, and various machine learning models, including Logistic Regression, SVM, Decision Tree, Random Forest, and K-Nearest Neighbors. Enhanced model transparency and performance with SHAP values, feature importance, and LIME. 
+''')
+
+txt('**Project: Deep Learning-Based Brain Tumor Classification Using CNN',
+'Jun 2022 – Sep 2022')
+st.markdown('''
+- Project Description: Leveraged CNNs to construct a robust system for brain tumor classification in MRI images, facilitating early diagnosis and treatment planning.
+- Key Result: Achieved high accuracy in distinguishing between tumor and non-tumor regions in medical scans, enhancing the potential for improved patient care.
+- Skills Demonstrated: Proficiency in deep learning, specifically Convolutional Neural Networks (CNNs), for medical image classification, demonstrating the ability to apply advanced technology to healthcare challenges.
+''')
+
+txt('**•	Project: Predicting Communicative Intention in Code Review Questions with different ML Models and BERT Model',
+'JunFeb 2023 – April 2023')
+st.markdown('''
+-Project Description: Conducted data preprocessing, applied machine learning models (Random Forest, SVM, XGBRFClassifier, BaggingClassifier) and BERT Model for predicting code review question labels based on a research paper (https://www.win.tue.nl/~aserebre/ICSME2018NIER.pdf).
+-Skills Demonstrated: data preprocessing and compare different machine learning techniques with different metrics
+''')
+
+txt('**Project: Emergency Room Dashboard in Tableau',
+'Jun 2023- Jun 2023')
+st.markdown('''
+-Project Description: Developed an ER dashboard showcasing patient statistics, age groups, wait times, and satisfaction scores. Connected to and manipulated data sources, created visualizations for patient counts, gender distribution, and satisfaction, stratified data by age groups with area graphs, and enhanced readability through custom labels and date axes.
+- Skills Demonstrated: Data manipulation, visualization design, and Tableau expertise.
+''')
 #####################
 st.markdown('''
 ## Social Media
