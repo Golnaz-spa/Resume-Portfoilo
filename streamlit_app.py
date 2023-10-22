@@ -116,7 +116,6 @@ st.markdown('''
 st.markdown('''
 ## Work Experience
 ''')
-
 txt('**Machine Learning Research Assistant, University of Manitoba, Canada',
 '2022-2023')
 st.markdown('''
@@ -177,7 +176,6 @@ txt3('Familiar','Java, Django, Spark, ERP')
 st.markdown('''
 ## Projects
 ''')
-
 txt('**Project: Stock Volatility Forecasting with Transformer Network',
 'Aug 2023')
 st.markdown('''
