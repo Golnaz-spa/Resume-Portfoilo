@@ -41,10 +41,10 @@ st.markdown("""
         <a class="nav-link" href="#work-experience">Work Experience</a>
       </li>
       <li class="nav-item">
-        <a class="nav-link" href="#Skills">Skills</a>
+        <a class="nav-link" href="#Skills">Skill</a>
       </li>
       <li class="nav-item">
-        <a class="nav-link" href="#Analytics Project and Machine Learning projects">Projects</a>
+        <a class="nav-link" href="#Projects">Projects</a>
       </li>
     </ul>
   </div>
@@ -175,7 +175,7 @@ txt3('Familiar','Java, Django, Spark, ERP')
 
 #####################
 st.markdown('''
-## Analytics Project and Machine Learning projects
+## Projects
 ''')
 
 txt('**Project: Stock Volatility Forecasting with Transformer Network',
