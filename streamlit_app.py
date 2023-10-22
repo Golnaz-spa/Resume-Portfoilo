@@ -210,17 +210,17 @@ st.markdown('''
 - Skills Demonstrated: Proficiency in deep learning, specifically Convolutional Neural Networks (CNNs), for medical image classification, demonstrating the ability to apply advanced technology to healthcare challenges.
 ''')
 
-txt('**•	Project: Predicting Communicative Intention in Code Review Questions with different ML Models and BERT Model',
+txt('**Project: Predicting Communicative Intention in Code Review Questions with different ML Models and BERT Model',
 'April 2023')
 st.markdown('''
--Project Description: Conducted data preprocessing, applied machine learning models (Random Forest, SVM, XGBRFClassifier, BaggingClassifier) and BERT Model for predicting code review question labels based on a research paper (https://www.win.tue.nl/~aserebre/ICSME2018NIER.pdf).
--Skills Demonstrated: data preprocessing and compare different machine learning techniques with different metrics
+- Project Description: Conducted data preprocessing, applied machine learning models (Random Forest, SVM, XGBRFClassifier, BaggingClassifier) and BERT Model for predicting code review question labels based on a research paper (https://www.win.tue.nl/~aserebre/ICSME2018NIER.pdf).
+- Skills Demonstrated: data preprocessing and compare different machine learning techniques with different metrics
 ''')
 
 txt('**Project: Emergency Room Dashboard in Tableau',
 'Jun 2023')
 st.markdown('''
--Project Description: Developed an ER dashboard showcasing patient statistics, age groups, wait times, and satisfaction scores. Connected to and manipulated data sources, created visualizations for patient counts, gender distribution, and satisfaction, stratified data by age groups with area graphs, and enhanced readability through custom labels and date axes.
+- Project Description: Developed an ER dashboard showcasing patient statistics, age groups, wait times, and satisfaction scores. Connected to and manipulated data sources, created visualizations for patient counts, gender distribution, and satisfaction, stratified data by age groups with area graphs, and enhanced readability through custom labels and date axes.
 - Skills Demonstrated: Data manipulation, visualization design, and Tableau expertise.
 ''')
 #####################
