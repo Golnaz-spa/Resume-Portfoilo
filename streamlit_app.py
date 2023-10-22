@@ -44,7 +44,7 @@ st.markdown("""
         <a class="nav-link" href="#Skill">Skill</a>
       </li>
       <li class="nav-item">
-        <a class="nav-link" href="#Analytics Project and Machine Learning projects">Projects</a>
+        <a class="nav-link" href="#Projects">Projects</a>
       </li>
     </ul>
   </div>
