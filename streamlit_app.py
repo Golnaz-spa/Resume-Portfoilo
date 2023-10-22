@@ -41,10 +41,10 @@ st.markdown("""
         <a class="nav-link" href="#work-experience">Work Experience</a>
       </li>
       <li class="nav-item">
-        <a class="nav-link" href="#bioinformatics-tools">Skill</a>
+        <a class="nav-link" href="#Skill">Skill</a>
       </li>
       <li class="nav-item">
-        <a class="nav-link" href="#social-media">Projects</a>
+        <a class="nav-link" href="#Analytics Project and Machine Learning projects">Projects</a>
       </li>
     </ul>
   </div>
@@ -194,7 +194,7 @@ st.markdown('''
 - Demonstrated Skills: Accomplished in data cleaning, feature engineering, data visualization, and various machine learning models, including LSTM-GRU. Enhanced model transparency using SHAP values and feature importance.
 ''')
 
-txt('**•	Project: A Comparative Analysis of Machine Learning Models for Diabetes Prediction',
+txt('**Project: A Comparative Analysis of Machine Learning Models for Diabetes Prediction',
 'Jan 2023')
 st.markdown('''
 - Project Description: Created a predictive model for diabetes management, leading to improved patient outcomes and resource efficiency.
