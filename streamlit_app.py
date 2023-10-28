@@ -156,7 +156,7 @@ txt('**Project: Deep Learning-Based Credit Score Prediction: Hybrid LSTM-GRU Mod
 st.markdown('''
 - Project Description: Supported lenders in credit risk assessment.
 - Key Result:LSTM-GRU hybrid model outperformed traditional models, improving accuracy and predictive capabilities.
-- Demonstrated Skills: Accomplished in data cleaning, feature engineering, data visualization, and various machine learning models, including LSTM-GRU. Enhanced model transparency using SHAP values and feature importance.
+- Demonstrated Skills: Accomplished in data cleaning, feature engineering, data visualization, and various machine learning models and deep learning models CNN, RNN based and hybrid model (LSTM-GRU) . Enhanced model transparency using SHAP values and feature importance.
 ''')
 
 txt('**Project: A Comparative Analysis of Machine Learning Models for Diabetes Prediction',
