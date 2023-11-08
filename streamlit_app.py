@@ -100,9 +100,9 @@ st.markdown('''
 - Punctually led and managed three branches, optimizing team productivity by 30% through effective leadership and project coordination.
 ''')
 
-txt('**Seasonal Instructor, Daneshvaran University College',
+txt('**Sessional Instructor, Daneshvaran University College',
 '2014-2021')
-txt('**Seasonal Instructor, Osveh University College',
+txt('**Sessional Instructor, Osveh University College',
 '2014-2021')
 st.markdown('''
 - Instructed courses in Information Technology in Accounting, Information Technology in Management, Foundations of Organizational Behavior, and Statistical Analysis for Decision Making.
