@@ -52,7 +52,7 @@ def txt4(a, b, c):
 
 #####################
 st.markdown('''
-## Education
+## Education (Highest level)
 ''')
 txt('**Masters Computer Science** (Machine Learning), *University of Manitoba*, Canada',
 '2022-2023')
@@ -61,22 +61,6 @@ st.markdown('''
 - Research thesis entitled `Volatility Forecasting with Transformer Network`.
 - Published:2023 IEEE Symposium on Computational Intelligence for Financial Engineering and Economics (CIFEr).
 - Recieved International Graduate Student Entrance Scholarship.                                         
-''')
-
-txt('**Master Management** (Industerial Management), *Islamic Azad University*, Iran',
-'2011-2013')
-st.markdown('''
-- GPA: `4`
-- Research thesis entitled `Strategic Plan Compilation by Using System Dynamics Modeling`.
-- Graduated with First Class Honors.
-- Member of Young Researchers and Elite Club Islamic Azad University of Tabriz.
-''')
-
-txt('**Bachelors Computer Engineering** , *Islamic Azad University*, Iran',
-'2004-2009')
-st.markdown('''
-- GPA: `3.75`
-
 ''')
 
 #####################
