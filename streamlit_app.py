@@ -7,7 +7,7 @@ with open("style.css") as f:
 #####################
 # Header 
 st.write('''
-# Computer Sciencet, MS.c.
+# Computer Science, MS.c.
 ##### *Resume* 
 ''')
 
